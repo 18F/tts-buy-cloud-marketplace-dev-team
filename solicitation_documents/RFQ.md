@@ -6,9 +6,9 @@ _Technology Transformation Services_
 
 _1800 F St NW | Washington, DC | 20006_
 
-cloud marketplace development team
+# cloud marketplace development team
 
-Request for Quotation
+## Request for Quotation
 
 **From:** Michelle McNellis, Contracting Officer, GSA TTS Acquisitions
 
