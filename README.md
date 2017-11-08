@@ -1,7 +1,7 @@
 # TTS cloud marketplace development team
 
 ## Instructions
-The documents in this repository are posted to e-Buy under ID and RFQ. The documents in e-Buy should always be considered the documents of record. Please submit any questions as [GitHub issues](https://github.com/18F/tts-buy-cloud-marketplace-dev-team/issues) in this repository by *November 13, 2017 at 4:00 pm EST*. TTS and the Contracting Officer will only be responding to questions submitted via this [Issue Template](https://github.com/18F/tts-buy-cloud-marketplace-dev-team/blob/master/ISSUE_TEMPLATE.md). We cannot commit to responding to comments or questions submitted in other manners.
+The documents in this repository are posted to e-Buy under RFQ1250830. The documents in e-Buy should always be considered the documents of record. Please submit any questions as [GitHub issues](https://github.com/18F/tts-buy-cloud-marketplace-dev-team/issues) in this repository by *November 13, 2017 at 4:00 pm EST*. TTS and the Contracting Officer will only be responding to questions submitted via this [Issue Template](https://github.com/18F/tts-buy-cloud-marketplace-dev-team/blob/master/ISSUE_TEMPLATE.md). We cannot commit to responding to comments or questions submitted in other manners.
 
 **Offers are due by November 17, 2017, at 4:00 pm EST.**
 
