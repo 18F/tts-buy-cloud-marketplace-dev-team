@@ -1,4 +1,4 @@
-**General Services Administration **
+**General Services Administration**
 
 _Federal Acquisition Service_
 
