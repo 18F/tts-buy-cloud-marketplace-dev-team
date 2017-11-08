@@ -1,20 +1,22 @@
-**General Services Administration **
+**General Services Administration**
 
-Federal Acquisition Service
+_Federal Acquisition Service_
 
-Technology Transformation Services
+_Technology Transformation Services_
 
-1800 F St NW | Washington, DC | 20006
+_1800 F St NW | Washington, DC | 20006_
 
-<span id="_5vit0leshofg" class="anchor"></span>cloud marketplace development team
+cloud marketplace development team
 
-<span id="_y75hmqjkks5y" class="anchor"></span>Request for Quotation
+Request for Quotation
 
 **From:** Michelle McNellis, Contracting Officer, GSA TTS Acquisitions
+
 **Subject:** Request for Quotation (RFQ)
 
 **Date:** November 08, 2017
-**Reply By:** **November 17, 2017**
+
+**Reply By:** **November 17, 2017 4:00 pm EST**
 
 **Set Aside:** Small Business
 
@@ -31,7 +33,7 @@ This solicitation is issued pursuant to the terms and conditions of the GSA Mult
 
 The Quoters shall submit a quotation in accordance with the instructions and terms and conditions of this RFQ and the terms and conditions of its GSA Schedule contract. Please ensure that a response includes all requested information and that your response clearly demonstrates the company’s capability to perform the objectives and requirements specified in the Performance Work Statement (PWS). The Government intends to award based on initial quotations. Therefore, it is critical that you are fully responsive to the solicitation and submit your best quotation initially.
 
-Questions or comments regarding this RFQ shall be submitted [*as an Issue*](https://github.com/18F/tts-buy-code-review/issues) using the [*Issue Template*](https://github.com/18F/tts-buy-code-review/blob/master/ISSUE_TEMPLATE.md) in the [*solicitation document’s repository*](https://github.com/18F/tts-buy-code-review) no later than November 13, 2017 in order to allow the Government sufficient time to respond. All questions, comments, and answers will be publicly available. Questions or comments received after the required deadline will not be answered. Any changes to this RFQ or attachments will be posted as an amendment in the solicitation document’s repository.
+Questions or comments regarding this RFQ shall be submitted [*as an Issue*](https://github.com/18F/tts-buy-code-review/issues) using the [*Issue Template*](https://github.com/18F/tts-buy-code-review/blob/master/ISSUE_TEMPLATE.md) in the [*solicitation document’s repository*](https://github.com/18F/tts-buy-code-review) no later than November 13, 2017 by 4:00 pm EST in order to allow the Government sufficient time to respond. All questions, comments, and answers will be publicly available. Questions or comments received after the required deadline will not be answered. Any changes to this RFQ or attachments will be posted as an amendment in the solicitation document’s repository.
 
 Quotation must be received electronically via the forms linked in Section 8.0 of this RFQ by the official closing date and time identified above. A late quotation will not be considered for award.
 
@@ -283,15 +285,19 @@ Evaluation of options under FAR 52.217-8 will be accomplished by using the price
 ### Rules
 
 No part of these oral presentations constitutes a procedure in FAR Part 15. For this reason, the Government is not obligated to and does not intend to determine a competitive range, conduct discussions, and proposal revisions are not requested and will not be allowed.
+
 The oral presentation consists of an unstructured question and answer session on technical factors. The entire oral presentation will take place remotely via video chat and/or teleconference.
+
 Offerors will not be able to use or present slides, graphs, charts or any other written presentation materials, including handouts.
 
 ### Content
 
 During the Open Technical Session, the offeror will respond to Government’s questions related to the technical aspects of the offeror’s proposal.
+
 Introductions will be used solely for introducing team member’s names and roles on both the Government and vendor teams. Time for introductions will not be allocated to business development purposes.
 
 Although the technical factors are identified in the RFQ, the core questions are not listed there. Offerors must be prepared to answer questions about the technical aspects of their respective quotes. The goal of these presentations is to assess the technical abilities of the proposed Key Personnel and further elaborate on their proposed Technical approach to accomplish the objectives of this task.
+
 This part of the oral presentations will not exceed 40 minutes. The Contracting Officer will strictly enforce this time limit on all presentations. There will be no follow-up session for further questions after this part of the presentation.
 The session will conclude with closing remarks and responses to frequently asked questions for offerors.
 
@@ -306,7 +312,9 @@ The Government will schedule the date and time of the oral presentations with ea
 ### Presentation Participants
 
 **Proposed Key Personnel must participate in the oral presentation. Otherwise, the offeror will be considered non-responsive and excluded from further consideration.**
+
 Offerors may include as many participants as are necessary. Offerors should note that the Government will be asking technical questions during the oral presentation, so non-technical personnel may not need to attend.
+
 After the presentations, vendors must email the meeting organizers the names of everyone who attended.
 
 12.0 Invoicing
@@ -401,16 +409,22 @@ Further, TTS intends to commit the following items, to the public domain, at a m
 -   Any and all new tooling, scripting configuration management, infrastructure as code, or any other final changes or edits to successfully deploy or operate the software.
 
 The contractor shall use open source technologies wherever possible, in support of the [*18F Source Code Policy*](https://18f.gsa.gov/open-source-policy/). All licenses must be expressly listed in the deliverable. Regardless of license(s) used (e.g., MIT, GPL, Creative Commons 0) the license(s) shall be clearly listed in the documentation.
+
 If the contractor needs to use work that does not have an open source license, the contractor is required to request permission from TTS, in writing, before utilizing that work in any way in connection with the order. If approved, all licenses shall be clearly set forth in a conspicuous place when work is delivered to TTS.
+
 If an open source license provides implementation guidance, the contractor shall ensure compliance with that guidance. If implementation guidance is not available, the contractor shall attach or include the license within the work itself. Examples of this include code comments at the beginning of a file or contained in a license file within a software repository.
 
 14.3 Section 508 Compliance
 ---------------------------
 
 The contractor shall support the Government in its conformance with Section 508 throughout the development and implementation of the work to be performed.
+
 Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. 794d) requires that when Federal agencies develop, procure, maintain, or use electronic information technology, Federal employees with disabilities have access to and use of information and data that is comparable to the access and use by Federal employees who do not have disabilities, unless an undue burden would be imposed on the agency. Section 508 also requires that individuals with disabilities, who are members of the public seeking information or services from a Federal agency, have access to and use of information and data that is comparable to that provided to the public who are not individuals with disabilities, unless an undue burden would be imposed on the agency.
+
 The following standard is applicable for compliance:
-1194.22 Web-based Intranet and Internet Information and Applications.
+
+- 1194.22 Web-based Intranet and Internet Information and Applications.
+
 The contractor should review the following websites for additional 508 information: *<http://www.section508.gov/index.cfm?FuseAction=Content&ID=12><http://www.access-board.gov/508.htm><http://www.w3.org/WAI/Resources>*
 
 **14.4 Information Security**
@@ -483,6 +497,4 @@ The Government may require continued performance of any services within the limi
 
 **Attachments to this Solicitation**
 
-1.  Proposed Quality Assurance Surveillance Plan (QASP)
-
-
+1.  [Proposed Quality Assurance Surveillance Plan (QASP)](QASP.md)
