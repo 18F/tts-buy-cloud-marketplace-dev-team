@@ -226,7 +226,7 @@ The final award for this requirement will be based on best-value principles, uti
 
 The Government is more concerned with obtaining superior technical capabilities than with making awards at the lowest overall price to the Government. However, the Government will not make awards at a significantly higher overall price to achieve slightly superior technical value. Offerors will be advised that the technical evaluation factors combined are significantly more important than price.
 
-1.  Evaluation Process. The Government intends to utilize a phased approach for this procurement as described below. To be considered for award, offerors must successfully pass through each phase.
+a. Evaluation Process. The Government intends to utilize a phased approach for this procurement as described below. To be considered for award, offerors must successfully pass through each phase.
 
 Phase 1: Technical Evaluation and Oral Interview - The Government will evaluate the offeror’s performance or capability acceptability based on the following non-price technical factors which are of equal importance to each other:
 
@@ -236,7 +236,7 @@ Phase 1: Technical Evaluation and Oral Interview - The Government will evaluate 
 
 -   Similar Experience: The Government will evaluate the offeror’s experience in performing projects of similar scope and complexity. The Government will also evaluate the offeror’s experience with open source software development, human-centered design, and continuous deployment methods.
 
-Phase 2: Pricing Schedule - Offeror’s Price as provided in the price quotation received via the Google Form will be reviewed separately from the technical evaluation.
+b. Phase 2: Pricing Schedule - Offeror’s Price as provided in the price quotation received via the Google Form will be reviewed separately from the technical evaluation.
 
 11.2 Technical Evaluation Factors
 ---------------------------------
