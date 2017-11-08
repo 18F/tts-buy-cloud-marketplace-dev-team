@@ -1,13 +1,14 @@
 **General Services Administration **
 
-Federal Acquisition Service
-Technology Transformation Services
+_Federal Acquisition Service_
 
-1800 F St NW | Washington, DC | 20006
+_Technology Transformation Services_
 
-<span id="_5vit0leshofg" class="anchor"></span>cloud marketplace development team
+_1800 F St NW | Washington, DC | 20006_
 
-<span id="_43xg7vic1y8" class="anchor"></span>Quality Assurance Surveillance Plan
+## cloud marketplace development team
+
+# Quality Assurance Surveillance Plan
 
 Introduction
 ============
